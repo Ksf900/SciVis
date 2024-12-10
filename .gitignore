@@ -4,3 +4,7 @@ __pycache__/
 
 # Ignore macOS system files
 .DS_Store
+
+# Ignore VTP files and their folders
+*_neurons_vtp/
+*.vtp
