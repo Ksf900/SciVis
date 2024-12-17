@@ -8,3 +8,6 @@ __pycache__/
 # Ignore VTP files and their folders
 *_neurons_vtp/
 *.vtp
+
+# Ignore Paraview state files
+*.pvsm
